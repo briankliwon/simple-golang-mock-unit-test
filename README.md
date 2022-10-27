@@ -26,7 +26,7 @@
 How we handle unit testing when function must be connect to database or third party service, that is so complicated case when we have to connect database first etc. How to make it to be more simple ?..let see mocking
 
 What is mock 
-In object-oriented programming, mock objects are simulated objects that mimic the behaviour of real objects in controlled ways, most often as part of a software testing initiative. A programmer typically creates a mock object to test the behaviour of some other object, in much the same way that a car designer uses a crash test dummy to simulate the dynamic behaviour of a human in vehicle impacts. The technique is also applicable in generic programming.  [wikipedia][wikipedia-algorithm]
+In object-oriented programming, mock objects are simulated objects that mimic the behaviour of real objects in controlled ways, most often as part of a software testing initiative. A programmer typically creates a mock object to test the behaviour of some other object, in much the same way that a car designer uses a crash test dummy to simulate the dynamic behaviour of a human in vehicle impacts. The technique is also applicable in generic programming.  [wikipedia][wikipedia-mock]
 
 In this project we implement simple example of mocking schema using golang unit test.
 
@@ -76,5 +76,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [GO-Url]:https://go.dev/
 [license-shield]: https://img.shields.io/github/license/briankliwon/algorithm-go
 [license-url]: https://github.com/briankliwon/algorithm-go/blob/main/LICENSE
-[wikipedia-algorithm]:https://en.wikipedia.org/wiki/Algorithm
+[wikipedia-mock]:https://en.wikipedia.org/wiki/Mock_object
 
