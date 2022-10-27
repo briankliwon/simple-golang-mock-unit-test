@@ -28,7 +28,7 @@ How we handle unit testing when function must be connect to database or third pa
 What is mock 
 In object-oriented programming, mock objects are simulated objects that mimic the behaviour of real objects in controlled ways, most often as part of a software testing initiative. A programmer typically creates a mock object to test the behaviour of some other object, in much the same way that a car designer uses a crash test dummy to simulate the dynamic behaviour of a human in vehicle impacts. The technique is also applicable in generic programming.  [wikipedia][wikipedia-algorithm]
 
-    In this project we implement simple example of mocking schema using golang unit test.
+In this project we implement simple example of mocking schema using golang unit test.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
